@@ -1,4 +1,4 @@
-# Hi, I'm Rama 👋
+# Hi, I'm Yogas 👋
 
 I analyze data and research user behavior — with 3+ years of hands-on experience working with healthcare information systems in one of East Kalimantan's largest public hospitals.
 
@@ -36,7 +36,7 @@ Domains           Healthcare · Education · Retail
 - UX research and product design experience at edtech companies (**Benih Belajar**, **Torche Education**)
 - Taught UI/UX design fundamentals as assistant lecturer at **Institut Teknologi Kalimantan**
 - Published research on UX and information systems (IEEE, 2021)
-- S.Kom, Sistem Informasi — Institut Teknologi Kalimantan (GPA 3.48)
+- S.Kom (B.Sc), Information System — Institut Teknologi Kalimantan (GPA 3.48)
 
 ---
 
