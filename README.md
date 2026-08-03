@@ -15,7 +15,7 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 
 </td>
 
-<td valign="top" width="55%">
+<td valign="top" width="100%">
 
 <h2>🛠 Skills</h2>
 
