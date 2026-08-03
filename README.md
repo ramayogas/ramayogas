@@ -6,6 +6,8 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 
 ---
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ramayogas)](https://github.com/stats-organization/github-stats-extended)
+
 ## 📊 Data Portfolio
 
 | Project | Tools | Domain |
