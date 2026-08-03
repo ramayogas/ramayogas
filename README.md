@@ -51,6 +51,8 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 </tr>
 </table>
 
+---
+
 ## 📊 Data Portfolio
 
 | Project | Tools | Domain |
@@ -63,6 +65,8 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 
 → Full portfolio: [github.com/ramayogas/data-portofolio](https://github.com/ramayogas/data-portofolio)
 
+---
+
 ## 🛠 Skills
 
 ```
@@ -73,6 +77,7 @@ Design              Figma · Wireframing · UX Design
 Domains             Healthcare · Education · Retail
 ```
 
+---
 
 ## 📌 Background
 
