@@ -6,8 +6,23 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice)](https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice)
 
+</td>
+<td width="50%" valign="top">
+
+## 🛠 Skills
+
+```text
+Data Analysis       Excel · Power Query · SQL (MySQL, SQLite, PostgreSQL) · Python (Pandas, Matplotlib)
+Data Visualization  Power BI
+Research            UX Research · User Interviews · Usability Testing · Quantitative Research
+Design              Figma · Wireframing · UX Design
+Domains             Healthcare · Education · Retail
 ## 📊 Data Portfolio
 
 | Project | Tools | Domain |
