@@ -7,7 +7,7 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 ---
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice" />
@@ -15,7 +15,7 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <h2>🛠 Skills</h2>
 
