@@ -5,8 +5,51 @@ I analyze data and research user behavior — with 3+ years of hands-on experien
 My background spans **data analysis**, **UX research**, and **UI/UX design** across healthcare and education domains. I'm building this portfolio to deepen my technical skills and document the work that bridges user behavior with data-driven decision making.
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice)](https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice)
+<table>
+<tr>
+<td valign="top" width="45%">
 
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ramayogas&langs_count=3&theme=apprentice" />
+</a>
+
+</td>
+
+<td valign="top" width="55%">
+
+<h2>🛠 Skills</h2>
+
+<table>
+<tr>
+<td><b>Data Analysis</b></td>
+<td>Excel · Power Query · SQL · Python (Pandas, Matplotlib)</td>
+</tr>
+
+<tr>
+<td><b>Visualization</b></td>
+<td>Power BI</td>
+</tr>
+
+<tr>
+<td><b>Research</b></td>
+<td>UX Research · User Interviews · Usability Testing</td>
+</tr>
+
+<tr>
+<td><b>Design</b></td>
+<td>Figma · Wireframing · UX Design</td>
+</tr>
+
+<tr>
+<td><b>Domains</b></td>
+<td>Healthcare · Education · Retail</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 Data Portfolio
