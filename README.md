@@ -64,8 +64,6 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 
 → Full portfolio: [github.com/ramayogas/data-portofolio](https://github.com/ramayogas/data-portofolio)
 
----
-
 ## 🛠 Skills
 
 ```
