@@ -50,7 +50,6 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 </td>
 </tr>
 </table>
----
 
 ## 📊 Data Portfolio
 
@@ -74,7 +73,6 @@ Design              Figma · Wireframing · UX Design
 Domains             Healthcare · Education · Retail
 ```
 
----
 
 ## 📌 Background
 
