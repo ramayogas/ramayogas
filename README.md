@@ -22,7 +22,7 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 <table>
 <tr>
 <td><b>Data Analysis</b></td>
-<td>Excel · Power Query · SQL · Python (Pandas, Matplotlib)</td>
+<td>Excel · Power Query · SQL · Python (Pandas, Matplotlib, Seaborn)</td>
 </tr>
 
 <tr>
