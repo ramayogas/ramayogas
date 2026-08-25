@@ -13,7 +13,8 @@ My background spans **data analysis**, **UX research**, and **UI/UX design** acr
 | [Stroke Risk Factor Analysis](https://github.com/ramayogas/excel-stroke-risk-analysis) | Excel, Power Query, Pivot Table | Healthcare |
 | [Retail Consumer Spending Analysis](https://github.com/ramayogas/excel-retail-spending-analysis) | Excel, Power Query, Pivot Table | Retail |
 | [Hospital Workforce Data Cleaning](https://github.com/ramayogas/sql-hospital-workforce-data-cleaning) | SQL, SQLite | Healthcare |
-| [Hydration Pattern Analysis](https://github.com/ramayogas/python-hydration-pattern-analysis) | Python, Pandas, Matplotlib | Health & Wellness |
+| [Hydration Pattern Analysis](https://github.com/ramayogas/python-hydration-pattern-analysis) | Python, Pandas, Matplotlib, Power BI | Health & Wellness |
+| [Laundry Transaction Analysis](https://github.com/ramayogas/laundry-transaction-analysis) | Python, Pandas, Matplotlib, Power BI | Laundry & Services |
 | [Ramadhan ER Patient Trend Analysis](https://github.com/ramayogas/ramadhan-er-patient-trend-analysis) | SQL, PostgresSQL, Power BI | Health & Wellness |
 
 → Full portfolio: [github.com/ramayogas/data-portofolio](https://github.com/ramayogas/data-portofolio)
