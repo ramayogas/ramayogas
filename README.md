@@ -28,7 +28,7 @@ Data Analysis       Excel · Power Query · SQL (MySQL, SQLite, PostgreSQL) · P
 Data Visualization  Power BI
 Research            UX Research · User Interviews · Usability Testing · Quantitative Research
 Design              Figma · Wireframing · UX Design
-Domains             Healthcare · Education · Retail
+Domains             Healthcare · Education · Service
 ```
 
 ---
